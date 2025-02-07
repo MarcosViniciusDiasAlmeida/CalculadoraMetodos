@@ -1,0 +1,15 @@
+C:\Users\marco\Desktop\CalculadoraMetodos\Calculadora-metodos\bin\Debug\net9.0\Calculadora-metodos.exe
+C:\Users\marco\Desktop\CalculadoraMetodos\Calculadora-metodos\bin\Debug\net9.0\Calculadora-metodos.deps.json
+C:\Users\marco\Desktop\CalculadoraMetodos\Calculadora-metodos\bin\Debug\net9.0\Calculadora-metodos.runtimeconfig.json
+C:\Users\marco\Desktop\CalculadoraMetodos\Calculadora-metodos\bin\Debug\net9.0\Calculadora-metodos.dll
+C:\Users\marco\Desktop\CalculadoraMetodos\Calculadora-metodos\bin\Debug\net9.0\Calculadora-metodos.pdb
+C:\Users\marco\Desktop\CalculadoraMetodos\Calculadora-metodos\obj\Debug\net9.0\Calculadora-metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Desktop\CalculadoraMetodos\Calculadora-metodos\obj\Debug\net9.0\Calculadora-metodos.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\CalculadoraMetodos\Calculadora-metodos\obj\Debug\net9.0\Calculadora-metodos.AssemblyInfo.cs
+C:\Users\marco\Desktop\CalculadoraMetodos\Calculadora-metodos\obj\Debug\net9.0\Calculadora-metodos.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\CalculadoraMetodos\Calculadora-metodos\obj\Debug\net9.0\Calculadora-metodos.sourcelink.json
+C:\Users\marco\Desktop\CalculadoraMetodos\Calculadora-metodos\obj\Debug\net9.0\Calculadora-metodos.dll
+C:\Users\marco\Desktop\CalculadoraMetodos\Calculadora-metodos\obj\Debug\net9.0\refint\Calculadora-metodos.dll
+C:\Users\marco\Desktop\CalculadoraMetodos\Calculadora-metodos\obj\Debug\net9.0\Calculadora-metodos.pdb
+C:\Users\marco\Desktop\CalculadoraMetodos\Calculadora-metodos\obj\Debug\net9.0\Calculadora-metodos.genruntimeconfig.cache
+C:\Users\marco\Desktop\CalculadoraMetodos\Calculadora-metodos\obj\Debug\net9.0\ref\Calculadora-metodos.dll
