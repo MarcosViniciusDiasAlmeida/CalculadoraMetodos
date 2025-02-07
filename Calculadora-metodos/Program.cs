@@ -4,8 +4,8 @@ using CalculadoraApp;
 class Program
 {
     static void Main(string[] args)
-      {
-       Console.WriteLine("Bem-vindo à Calculadora!");
+    {
+        Console.WriteLine("Bem-vindo à Calculadora!");
         Calculadora calculadora = new Calculadora();
 
         double num1 = calculadora.LerNumero("Digite o primeiro número: ");
@@ -16,7 +16,8 @@ class Program
         Console.WriteLine("2. Subtração (-)");
         Console.WriteLine("3. Multiplicação (*)");
         Console.WriteLine("4. Divisão (/)");
-           int operacao = calculadora.LerOperacao();
+
+        int operacao = calculadora.LerOperacao();
 
         switch (operacao)
         {
