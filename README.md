@@ -39,16 +39,7 @@ dotnet run
 
 📝 Exemplo de Uso
 
-Bem-vindo à Calculadora!
-Digite o primeiro número: 10
-Digite o segundo número: 5
-Escolha a operação:
-1. Adição (+)
-2. Subtração (-)
-3. Multiplicação (*)
-4. Divisão (/)
-Digite o número da operação desejada (1/2/3/4): 1
-Resultado: 10 + 5 = 15
+![image](https://github.com/user-attachments/assets/5a22b4d7-1e5a-4159-b62f-270332abccdb)
 
 🛠 Melhorias Futuras
 
