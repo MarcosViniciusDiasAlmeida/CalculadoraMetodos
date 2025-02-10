@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\marco\\.nuget\\packages\\": {}
+    "C:\\Users\\Alunos\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marco\\Desktop\\CalculadoraMetodos\\Calculadora-metodos\\Calculadora-metodos.csproj",
+      "projectUniqueName": "C:\\Users\\Alunos\\Desktop\\CalculadoraMetodos\\Calculadora-metodos\\Calculadora-metodos.csproj",
       "projectName": "Calculadora-metodos",
-      "projectPath": "C:\\Users\\marco\\Desktop\\CalculadoraMetodos\\Calculadora-metodos\\Calculadora-metodos.csproj",
-      "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marco\\Desktop\\CalculadoraMetodos\\Calculadora-metodos\\obj\\",
+      "projectPath": "C:\\Users\\Alunos\\Desktop\\CalculadoraMetodos\\Calculadora-metodos\\Calculadora-metodos.csproj",
+      "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Alunos\\Desktop\\CalculadoraMetodos\\Calculadora-metodos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\marco\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
