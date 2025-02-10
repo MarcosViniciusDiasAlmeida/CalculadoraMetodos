@@ -43,7 +43,8 @@ dotnet run
 
 📝 Exemplo de Uso
 
-![image](https://github.com/user-attachments/assets/5a22b4d7-1e5a-4159-b62f-270332abccdb)
+![image](https://github.com/user-attachments/assets/4d204613-8ed1-4293-a9c6-3e49f0e1bb5f)
+
 
 💡 Sinta-se à vontade para contribuir e sugerir melhorias! 🚀
 
